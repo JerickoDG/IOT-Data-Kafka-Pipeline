@@ -1,6 +1,8 @@
 # IoT ETL Pipeline  
 
-This project implements an **Extract-Transform-Load (ETL) pipeline** for IoT data using **Kafka** for streaming and **MySQL** for storage. It is designed to handle real-time ingestion of IoT device data, process it, and persist it into a relational database for further analytics.  
+This project implements an **Extract-Transform-Load (ETL) pipeline** for IoT data using **Kafka** for streaming and **MySQL** for storage. It is designed to handle real-time ingestion of IoT device data, process it, and persist it into a relational database for further analytics. 
+
+IoT Data Source: https://thingspeak.mathworks.com/channels/1293177/feeds
 
 ---
 
